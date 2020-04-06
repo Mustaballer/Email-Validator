@@ -3,7 +3,7 @@
 This is a node.js and express web app that utilizes express-validatator to check if usernames and passwords that are inputted are valid
 email addresses.
 
-Click the link here to see this web app: https://nameless-oasis-98729.herokuapp.com/
+Click the link here to see this web app: https://email-validation-mongodb.herokuapp.com/
 
 ## Built With
 
